@@ -1,0 +1,6 @@
+private ip: 172.31.27.115
+public ip:ec2-3-145-147-245.us-east-2.compute.amazonaws.com
+
+
+
+public ip address:3.145.147.245
